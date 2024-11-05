@@ -1,7 +1,7 @@
 ## 👋👋👋
 
 - 💻 Frontend - developer: 
-  [HeadHunter](https://hh.ru/resume/239c9d37ff0dd203ce0039ed1f61487039524b), [LinkedIn](https://www.linkedin.com/in/aleksey-kukrus)
+  [HeadHunter](https://hh.ru/resume/239c9d37ff0dd203ce0039ed1f61487039524b), [LinkedIn](https://www.linkedin.com/in/alexey-kukrus/)
 
 - 💬 JavaScript/TypeScript, React, Svelte, Redux Toolkit, Meteor 
 
