@@ -1,4 +1,4 @@
-## 👋 Hello there!
+## 👋👋👋
 
 💻 **Frontend Developer**  
 🌍 Open to opportunities and collaborations! Connect with me:  
@@ -7,14 +7,12 @@
 - ✉️ [Telegram](https://t.me/alexey_front)  
 - 🥋 [CodeWars](https://www.codewars.com/users/AlexeyKukrus)  
 
----
 
 ## 📈 GitHub Stats:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexeyKukrus&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyKukrus&layout=compact&theme=radical)
 
----
 
 ## 🛠️ Languages and Tools:
 
@@ -29,4 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
 </p>
 
----
+## 🏆 Achievements:
+
+### 🎮 CodeWars Stats:
+![CodeWars Profile](https://www.codewars.com/users/AlexeyKukrus/badges/large)
