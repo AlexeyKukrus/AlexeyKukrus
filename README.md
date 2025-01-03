@@ -1,10 +1,20 @@
-## 👋👋👋
+## 👋 Hello there!
 
-💻 Frontend - developer: 
-  [HeadHunter](https://hh.ru/resume/239c9d37ff0dd203ce0039ed1f61487039524b), [LinkedIn](https://www.linkedin.com/in/alexey-kukrus/), [Telegram](https://t.me/alexey_front)
+💻 **Frontend Developer**  
+🌍 Open to opportunities and collaborations! Connect with me:  
+- 💻 [HeadHunter](https://hh.ru/resume/239c9d37ff0dd203ce0039ed1f61487039524b)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexey-kukrus/)  
+- ✉️ [Telegram](https://t.me/alexey_front)  
+- 🥋 [CodeWars](https://www.codewars.com/users/AlexeyKukrus)  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexeyKukrus)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyKukrus)
+---
+
+## 📈 GitHub Stats:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexeyKukrus&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyKukrus&layout=compact&theme=radical)
+
+---
 
 ## 🛠️ Languages and Tools:
 
@@ -19,3 +29,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
 </p>
 
+---
