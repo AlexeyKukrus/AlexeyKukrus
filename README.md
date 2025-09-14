@@ -33,4 +33,4 @@
 ![CodeWars Profile](https://www.codewars.com/users/AlexeyKukrus/badges/large)
 
 ### 🧠 LeetCode Stats:
-[![LeetCode Stats](https://leetcard.jacoblin.cool/AlexeyKukrus?theme=dark)](https://leetcode.com/AlexeyKukrus/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/35o3LtziTK?theme=dark)](https://leetcode.com/35o3LtziTK/)
